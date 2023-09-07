@@ -1,0 +1,54 @@
+li {
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+  }
+ table{
+  border: 2px solid brown;
+  text-align: center;
+  margin: 13px;
+ }
+th{
+  color: white;
+  background-color: black;
+  border: 2px solid blueviolet;
+  margin: 5px;
+  padding: 5px 15px;
+  font-size: xx-large;
+}
+
+td{
+  color: white;
+  background-color: black;
+  border: 2px solid blueviolet;
+  margin: 0;
+  padding: 2.5px 7.5px;
+  text-align: center;
+  font-size: x-large;
+}
+
+td:hover{
+  color: #10616b;
+  background-color: white;
+  font-style: oblique;
+  font-weight: 900;
+}
+
+.div{
+  max-width: 900px;
+  /* border: 2px solid aquamarine; */
+  border-radius: 5px;
+  text-align: center;
+  padding: 20px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+
+/* 
+text-align: center;
+box-sizing: border-box;
+margin: auto;
+padding: 20px; */
+
